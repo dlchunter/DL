@@ -8,3 +8,19 @@ wheels/
 
 # Virtual environments
 .venv
+DL_AutoDiff_Nanograd.ipynb
+DL_Backpropagation_pen_and_paper.ipynb
+fit_comparison.pdf
+fit_comparison.png
+loss_curves.pdf
+loss_curves.png
+pyproject.toml
+uv.lock
+DL_AutoDiff_Nanograd.ipynb
+DL_Backpropagation_pen_and_paper.ipynb
+pyproject.toml
+uv.lock
+DL_AutoDiff_Nanograd.ipynb
+DL_Backpropagation_pen_and_paper.ipynb
+pyproject.toml
+uv.lock
